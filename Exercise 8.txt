@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+<meta charset="utf-8">
+<title> Header </title>
+</head>
+<body>
+<header>
+     <nav>
+        <a href="first-html-page.html"> First HTML page </a>  |
+       <a href="text-formatting.html">  Text formatting </a>  |
+       <a href="div.html">  DIV example </a>
+     </nav>
+</header>
+</body>
+</html>
